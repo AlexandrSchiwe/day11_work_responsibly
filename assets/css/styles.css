@@ -203,6 +203,10 @@ header div + a::before {
     margin-bottom: 20vh;
 }
 
+#resources div a img:hover {
+    box-shadow: 1px 5px 14px 7px rgba(0,0,0,0.61);
+}
+
 /* =======================================
                 FOOTER
 =========================================*/
